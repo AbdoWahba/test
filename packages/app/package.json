@@ -1,10 +1,10 @@
 {
   "name": "app",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.js",
   "dependencies": {
-    "@my/ui-lib": "^1.0.1",
-    "@my/utils": "^2.0.0"
+    "@my/ui-lib": "^1.0.2",
+    "@my/utils": "^2.0.1"
   },
   "scripts": {
     "start": "node dist/app/index.js",
